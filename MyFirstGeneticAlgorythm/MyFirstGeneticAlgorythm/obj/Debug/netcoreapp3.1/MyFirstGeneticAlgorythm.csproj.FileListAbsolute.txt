@@ -1,0 +1,11 @@
+C:\Users\wpola\source\repos\MyFirstGeneticAlgorythm\MyFirstGeneticAlgorythm\bin\Debug\netcoreapp3.1\MyFirstGeneticAlgorythm.exe
+C:\Users\wpola\source\repos\MyFirstGeneticAlgorythm\MyFirstGeneticAlgorythm\bin\Debug\netcoreapp3.1\MyFirstGeneticAlgorythm.deps.json
+C:\Users\wpola\source\repos\MyFirstGeneticAlgorythm\MyFirstGeneticAlgorythm\bin\Debug\netcoreapp3.1\MyFirstGeneticAlgorythm.runtimeconfig.json
+C:\Users\wpola\source\repos\MyFirstGeneticAlgorythm\MyFirstGeneticAlgorythm\bin\Debug\netcoreapp3.1\MyFirstGeneticAlgorythm.runtimeconfig.dev.json
+C:\Users\wpola\source\repos\MyFirstGeneticAlgorythm\MyFirstGeneticAlgorythm\bin\Debug\netcoreapp3.1\MyFirstGeneticAlgorythm.dll
+C:\Users\wpola\source\repos\MyFirstGeneticAlgorythm\MyFirstGeneticAlgorythm\bin\Debug\netcoreapp3.1\MyFirstGeneticAlgorythm.pdb
+C:\Users\wpola\source\repos\MyFirstGeneticAlgorythm\MyFirstGeneticAlgorythm\obj\Debug\netcoreapp3.1\MyFirstGeneticAlgorythm.csprojAssemblyReference.cache
+C:\Users\wpola\source\repos\MyFirstGeneticAlgorythm\MyFirstGeneticAlgorythm\obj\Debug\netcoreapp3.1\MyFirstGeneticAlgorythm.AssemblyInfoInputs.cache
+C:\Users\wpola\source\repos\MyFirstGeneticAlgorythm\MyFirstGeneticAlgorythm\obj\Debug\netcoreapp3.1\MyFirstGeneticAlgorythm.AssemblyInfo.cs
+C:\Users\wpola\source\repos\MyFirstGeneticAlgorythm\MyFirstGeneticAlgorythm\obj\Debug\netcoreapp3.1\MyFirstGeneticAlgorythm.dll
+C:\Users\wpola\source\repos\MyFirstGeneticAlgorythm\MyFirstGeneticAlgorythm\obj\Debug\netcoreapp3.1\MyFirstGeneticAlgorythm.pdb
